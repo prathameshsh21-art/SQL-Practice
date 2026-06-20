@@ -1,6 +1,5 @@
--- =========================
+
 -- Day 2: Filtering & Aggregates
--- =========================
 
 CREATE TABLE student(
   roll_no INT PRIMARY KEY,
@@ -91,9 +90,9 @@ GROUP BY city
 ORDER BY AVG(marks) ASC;
 
 
--- =========================
+
 -- Customer Table Practice
--- =========================
+
 
 CREATE TABLE customers (
     customer_id INT PRIMARY KEY,
