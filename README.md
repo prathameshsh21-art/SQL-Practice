@@ -1,6 +1,6 @@
 # SQL Practice Journey
 
-This repository contains my daily SQL learning and practice exercises. I am learning SQL step by step to build a strong foundation for software development, internships, and technical interviews.
+This repository contains my daily SQL learning and practice exercises. I am learning SQL step by step to build a strong foundation in databases, backend development, and technical interviews.
 
 ## Topics Covered
 
@@ -52,6 +52,27 @@ This repository contains my daily SQL learning and practice exercises. I am lear
 * ON UPDATE CASCADE
 * ON DELETE CASCADE
 
+### Day 4 - Joins, Subqueries & Views
+
+* INNER JOIN
+* LEFT JOIN
+* RIGHT JOIN
+* FULL OUTER JOIN (Using UNION)
+* LEFT EXCLUSIVE JOIN
+* RIGHT EXCLUSIVE JOIN
+* SELF JOIN
+* UNION
+* Subqueries
+
+  * Scalar Subquery
+  * IN Subquery
+  * FROM Clause Subquery
+* Views
+
+  * CREATE VIEW
+  * SELECT FROM VIEW
+  * DROP VIEW
+
 ## Repository Structure
 
 SQL-Practice/
@@ -62,24 +83,24 @@ SQL-Practice/
 
 ├── Day3_Database_Management.sql
 
-├── Day4_Joins.sql (Coming Soon)
+├── Day4_Joins_Subqueries_Views.sql
 
 └── README.md
 
 ## Learning Goal
 
-My goal is to strengthen my SQL skills through daily practice and build a strong understanding of database concepts, query writing, and relational database management systems.
+My goal is to strengthen my SQL skills through daily hands-on practice, build strong database fundamentals, and prepare for software development internships and technical interviews.
 
 ## Upcoming Topics
 
-* INNER JOIN
-* LEFT JOIN
-* RIGHT JOIN
-* SELF JOIN
-* Subqueries
-* Views
+* Advanced Subqueries
+* Constraints Revision
+* SQL Functions
 * Stored Procedures
+* Triggers
+* Views (Advanced)
 * SQL Interview Questions
+* Mini SQL Projects
 
 ## Author
 
